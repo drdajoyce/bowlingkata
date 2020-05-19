@@ -1,0 +1,13 @@
+C:\Users\ukdjoy\ManDigApprenticeship\testing_pyramid_bootcamp\BowlingKata\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.exe
+C:\Users\ukdjoy\ManDigApprenticeship\testing_pyramid_bootcamp\BowlingKata\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.deps.json
+C:\Users\ukdjoy\ManDigApprenticeship\testing_pyramid_bootcamp\BowlingKata\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.runtimeconfig.json
+C:\Users\ukdjoy\ManDigApprenticeship\testing_pyramid_bootcamp\BowlingKata\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.runtimeconfig.dev.json
+C:\Users\ukdjoy\ManDigApprenticeship\testing_pyramid_bootcamp\BowlingKata\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.dll
+C:\Users\ukdjoy\ManDigApprenticeship\testing_pyramid_bootcamp\BowlingKata\BowlingKata\bin\Debug\netcoreapp3.1\BowlingKata.pdb
+C:\Users\ukdjoy\ManDigApprenticeship\testing_pyramid_bootcamp\BowlingKata\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.csprojAssemblyReference.cache
+C:\Users\ukdjoy\ManDigApprenticeship\testing_pyramid_bootcamp\BowlingKata\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.csproj.CoreCompileInputs.cache
+C:\Users\ukdjoy\ManDigApprenticeship\testing_pyramid_bootcamp\BowlingKata\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.AssemblyInfoInputs.cache
+C:\Users\ukdjoy\ManDigApprenticeship\testing_pyramid_bootcamp\BowlingKata\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.AssemblyInfo.cs
+C:\Users\ukdjoy\ManDigApprenticeship\testing_pyramid_bootcamp\BowlingKata\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.dll
+C:\Users\ukdjoy\ManDigApprenticeship\testing_pyramid_bootcamp\BowlingKata\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.pdb
+C:\Users\ukdjoy\ManDigApprenticeship\testing_pyramid_bootcamp\BowlingKata\BowlingKata\obj\Debug\netcoreapp3.1\BowlingKata.genruntimeconfig.cache
